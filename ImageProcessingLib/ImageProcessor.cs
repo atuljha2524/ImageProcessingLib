@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ImageProcessingLib
+{
+    public class ImageProcessor
+    {
+        public string Process(string imageContent)
+        {
+            return "Image Processed Using Alpha Alorithm version 1.0.0.0";
+        }
+    }
+}

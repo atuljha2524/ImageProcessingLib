@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessingLib", "ImageProcessingLib\ImageProcessingLib.csproj", "{0C294698-0001-4C7C-9554-42B94F77D320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsPaint", "MsPaint\MsPaint.csproj", "{AB5558F4-6425-4419-A9F1-CF2CC6C12364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C294698-0001-4C7C-9554-42B94F77D320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C294698-0001-4C7C-9554-42B94F77D320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C294698-0001-4C7C-9554-42B94F77D320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C294698-0001-4C7C-9554-42B94F77D320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5558F4-6425-4419-A9F1-CF2CC6C12364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5558F4-6425-4419-A9F1-CF2CC6C12364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5558F4-6425-4419-A9F1-CF2CC6C12364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5558F4-6425-4419-A9F1-CF2CC6C12364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80140ECA-D1FE-455F-ACF7-BF438FD2CE06}
+	EndGlobalSection
+EndGlobal
